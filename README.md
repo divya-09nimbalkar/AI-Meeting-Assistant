@@ -35,7 +35,7 @@ The **AI Meeting Assistant** automates the tedious post-meeting documentation lo
 ##  System Architecture
 
 
-```
+
 
 Audio Media File / Raw Text Transcript Input
 │
