@@ -144,7 +144,7 @@ AI_Meeting_Assistant/
 
 ##  Author
 
-**Amit** — AI/ML Developer | B.Tech Electronics & Telecom
+**Divya** — AI/ML Developer | B.Tech Electronics & Telecom
 
 ```
 
