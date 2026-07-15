@@ -104,7 +104,7 @@ The `AI_Meeting_Assistant.ipynb` workspace features a clean, step-by-step layout
 
 ### 1. Build Local Target Project Workspace
 ```bash
-git clone [https://github.com/yourusername/AI_Meeting_Assistant.git](https://github.com/yourusername/AI_Meeting_Assistant.git)
+git clone [https://github.com/divya-09nimbalkar/AI_Meeting_Assistant.git](https://github.com/divya-09nimbalkar/AI_Meeting_Assistant.git)
 cd AI_Meeting_Assistant
 python -m venv venv
 source venv/bin/activate # Windows Terminal: .\venv\Scripts\activate
